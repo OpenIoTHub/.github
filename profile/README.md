@@ -9,8 +9,9 @@
 本项目开源部分主要在如下几个项目地址：  
 * [OpenIoTHub](https://github.com/OpenIoTHub):主要开源云易连的核心软件，包括APP(及插件)、网关、服务器等  
 ```
-网关:https://github.com/gateway-go
-自建公网转发服务器：https://github.com/server-go
+APP:https://github.com/OpenIoTHub/OpenIoTHub
+网关:https://github.com/OpenIoTHub/gateway-go
+自建公网转发服务器：https://github.com/OpenIoTHub/server-go
 ```
 * [IoTDevice](https://github.com/IoTDevice):主要开源物联网智能家居硬件及其协议、工具等，以下是主要的开源部分  
 ```
