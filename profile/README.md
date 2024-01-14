@@ -2,11 +2,11 @@
 云亿连的目标是作为一个[通用的智能家居设备和私有云服务的接入和访问中心]()，你可以接入所有的开放联盟所定义的协议的设备或者接入包括米家、天猫精灵、小度、涂鸦、易微联等第三方设备。除了将这些第三方设备接入以外还可以提供插件[支持众多的第三方智能音箱]()的接入，[可以实现天猫精灵音箱控制小米的设备]()。当然智能家居硬件厂商也可以通过云亿连的协议主动接入云亿连生态。  
 ## 整体架构
 
-<img src="./images/OpenIoTHub-architecture.png" alt="架构" align=center >
+<img src="/profile/images/OpenIoTHub-architecture.png" alt="架构" align=center >
 
 ## 思维导图
 
-<img src="./images/naotu.svg" alt="架构" align=center >
+<img src="/profile/images/naotu.svg" alt="架构" align=center >
 
 ## 开源项目
 
